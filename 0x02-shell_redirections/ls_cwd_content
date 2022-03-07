@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 abakar abakar 4096 mars   7 19:04 .
+drwxrwxr-x 6 abakar abakar 4096 mars   7 11:29 ..
+-rwxrw-r-- 1 abakar abakar   32 mars   7 11:50 0-hello_world
+-rwxrw-r-- 1 abakar abakar   28 mars   7 11:56 1-confused_smiley
+-rwxrw-r-- 1 abakar abakar   28 mars   7 12:04 2-hellofile
+-rwxrw-r-- 1 abakar abakar   40 mars   7 18:53 3-twofiles
+-rwxrw-r-- 1 abakar abakar   33 mars   7 12:52 4-lastlines
+-rwxrw-r-- 1 abakar abakar   33 mars   7 12:56 5-firstlines
+-rwxrw-r-- 1 abakar abakar   40 mars   7 18:57 6-third_line
+-rwxrw-r-- 1 abakar abakar   78 mars   7 19:00 7-file
+-rwxrw-r-- 1 abakar abakar   36 mars   7 19:03 8-cwd_state
+-rw-rw-r-- 1 abakar abakar   12 mars   7 19:01 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 abakar abakar    0 mars   7 19:04 ls_cwd_content
+-rw-rw-r-- 1 abakar abakar   49 mars   7 11:39 README.md
